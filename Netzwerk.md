@@ -371,6 +371,19 @@ s.close();
 
 ---
 
+# Quellen
+
+Java ist auch eine Insel (Christian Ullenboom)
+http://openbook.rheinwerk-verlag.de/javainsel/
+
+C von A bis Z (Jürgen Wolf)
+http://openbook.rheinwerk-verlag.de/c_von_a_bis_z/025_c_netzwerkprogrammierung_001.htm
+
+Netzwerk-Programmierung
+http://www.netzmafia.de/skripten/inetprog/index.html
+
+---
+
 ## Vielen Dank für eure Aufmerksamkeit :+1:
 
 
